@@ -1,4 +1,4 @@
-.contenitore {
+.contenitore-1 {
     width: 700px;
     height: 200px;
     margin: auto;
@@ -10,7 +10,7 @@
     border-left: 0px;
 }
 
-.contenitore {
+.contenitore-1 {
     background-color: rgba(115, 115, 115, 0.18);
 }
 
@@ -24,7 +24,20 @@ img {
     padding-left: 200px;
 }
 
+.contenitore-2 {
+    width: 700px;
+    height: 550px;
+    margin: auto;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: gold;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
 
-
+.contenitore-2 {
+    background-color: aqua;
+}
 
     
