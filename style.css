@@ -13,3 +13,18 @@
 .contenitore {
     background-color: rgba(115, 115, 115, 0.18);
 }
+
+img {
+    height: 125px;
+    width: 125px;
+    padding-left: 285px;
+}
+
+.titolo {
+    padding-left: 200px;
+}
+
+
+
+
+    
