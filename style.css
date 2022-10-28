@@ -1,0 +1,25 @@
+.contenitore {
+    background-color:rgba(130, 126, 126, 0.187)
+}
+
+.contenitore {
+    width: 700px;
+}
+
+.contenitore {
+    height: 200px;
+}
+
+.contenitore {
+    margin: auto;
+}
+
+.contenitore {
+    border-bottom: 3px;
+    border-style: solid;
+    border-color: gold;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+
