@@ -10,10 +10,6 @@
     border-left: 0px;
 }
 
-.contenitore-1 {
-    background-color: rgba(115, 115, 115, 0.18);
-}
-
 img {
     height: 125px;
     width: 125px;
@@ -36,10 +32,6 @@ img {
     border-left: 0px;
 }
 
-.contenitore-2 {
-    background-color: rgba(0, 255, 255, 0);
-}
-
 .contenuto-1 {
     color: rgb(209, 177, 0);
 }
@@ -49,7 +41,7 @@ img {
 }
 
 .contenuto-3 {
-    padding-left: 660px;
+    text-align: center;
     font-size: small;
 }
 
