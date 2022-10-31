@@ -10,6 +10,9 @@
     border-left: 0px;
 }
 
+.contenitore-1 {
+    background-color: rgba(124, 124, 124, 0.313);
+}
 img {
     height: 125px;
     width: 125px;
